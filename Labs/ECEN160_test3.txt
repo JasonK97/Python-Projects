@@ -1,0 +1,9 @@
+LD   r2, 4
+LD   r3, 2
+LD   r4, 1
+ADD  r5, r2, r3
+ADD  r6, r5, r4
+LD   r1, 3
+DISP r1, r6
+MOV r3, r6
+ADD r5, r3, r6

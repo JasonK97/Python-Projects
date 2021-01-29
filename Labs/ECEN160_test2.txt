@@ -1,0 +1,13 @@
+LD r0, 8
+LD r1, 4
+DISP r1, r0
+LD r0, 9
+LD r1, 6
+DISP r1, r0
+LD r0, A
+LD r1, 0
+DISP r1, r0
+NOP
+LD r3, 3
+MOV r4, r3
+DISP r4, r3
