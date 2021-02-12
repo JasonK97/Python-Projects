@@ -6,6 +6,10 @@ book = openpyxl.load_workbook("./coordinates.xlsx")
 # set active worksheet
 sheet = book.active
 
+coordinatedictionary = {}
+
+# for x in 
+
 a2 = sheet['A2']
 b2 = sheet['B2']
 a3 = sheet['A3']
